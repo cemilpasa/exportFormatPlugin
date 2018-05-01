@@ -12,7 +12,7 @@ use Plenty\Modules\Helper\Models\KeyValue;
 
 /**
  * Class ExportFormatResultFields
- * @package PluginExportFormatTutorial\ResultField
+ * @package exportFormatPlugin\ResultField
  */
 class ExportFormatResultFields extends ResultFields
 {

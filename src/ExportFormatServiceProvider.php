@@ -7,7 +7,7 @@ use Plenty\Plugin\ServiceProvider;
 
 /**
  * Class ExportFormatServiceProvider
- * @package PluginExportFormatTutorial
+ * @package exportFormatPlugin
  */
 class ExportFormatServiceProvider extends ServiceProvider
 {

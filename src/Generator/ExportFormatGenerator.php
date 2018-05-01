@@ -13,7 +13,7 @@ use Plenty\Plugin\Log\Loggable;
 
 /**
  * Class ExportFormatGenerator
- * @package PluginExportFormatTutorial\Generator
+ * @package exportFormatPlugin\Generator
  */
 class ExportFormatGenerator extends CSVPluginGenerator
 {

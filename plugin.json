@@ -4,7 +4,6 @@
     "type": "export",
     "version": "1.0.1",
     "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007",
-    "pluginIcon": "icon_plugin_md.png",
     "price": 0.00,
     "description": "This plugin adds the format ExportFormat to the Elastic Export.",
     "shortDescription": {
@@ -22,7 +21,6 @@
         "ElasticExport"
     ],
     "author": "plentymarkets GmbH",
-    "authorIcon": "icon_author_xs.png",
     "serviceProvider": "exportFormatPlugin\\ExportFormatServiceProvider",
     "keywords": [
         "plugin",
